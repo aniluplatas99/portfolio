@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Anilu PLatas</h1>
-<p>I am the only female child</p>
+<h1>Anilu Platas</h1>
+<p>I have 2 older siblings and I like spending a lot of time with the people that make me smile. I can easily get stress</p>
 </body>
 </html>
